@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const Jimp = require('jimp');
 const bot = new Discord.Client();
-const token = "NzU3NjMxMjA0ODA2NjIzNDQy.X2jNCw.py4u7KYCf6A1tjUtBr2wDvaXfUo";
+const token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const faceapi = require('face-api.js')
 const canvas = require('canvas');
 const { Canvas, Image, ImageData } = canvas
